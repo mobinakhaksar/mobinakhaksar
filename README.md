@@ -13,4 +13,3 @@ I'm always eager to learn new technologies and enhance my problem-solving abilit
 - **Languages:** Python, SQL, DAX 
 - **Data Science & ML:** Predictive Modeling, Feature Engineering, Data Cleaning, Pandas  
 - **Databases & Tools:** Power BI, Relational Databases (SQLite/ODBC), Git, Docker
-- 
